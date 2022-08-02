@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edzy16
+- 👋 Hi, I’m Edwin Siby
 - 👀 I’m interested in programming and electronics
 - 🌱 I’m currently learning Electronics and communication Engineering
 - 💞️ I’m looking to collaborate on electronics based projects
