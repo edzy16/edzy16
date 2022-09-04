@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edwin Siby
 - 👀 I’m interested in programming and electronics
-- 🌱 I’m currently learning Electronics and communication Engineering
-- 💞️ I’m looking to collaborate on electronics based projects
+- 🌱 I’m currently an Electronics and communication Engineering Student
+- 💞️ I’m looking to collaborate on AI and ML projects
 - 📫 How to reach me on twitter @itz_edzy
 
 <!---
