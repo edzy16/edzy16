@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAFPZhWNy8s/MPobwPGuK7SxMCNDwBWGhQ/edit?utm_content=DAFPZhWNy8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![MasterHead](https://drive.google.com/file/d/1UXwKGAgciB7yATU-9DInqNEc7St7rDeE/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Edwin Siby</h1>
 <h3 align="center">An aspiring developer from India</h3>
 
