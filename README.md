@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1UXwKGAgciB7yATU-9DInqNEc7St7rDeE/view?usp=sharing)
+![MasterHead]<img src:https://drive.google.com/file/d/1UXwKGAgciB7yATU-9DInqNEc7St7rDeE/view?usp=sharing></img
 <h1 align="center">Hi 👋, I'm Edwin Siby</h1>
 <h3 align="center">An aspiring developer from India</h3>
 
