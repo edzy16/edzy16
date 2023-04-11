@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/itz_edzy" target="blank"><img src="https://img.shields.io/twitter/follow/itz_edzy?logo=twitter&style=for-the-badge" alt="itz_edzy" /></a> </p>
 
+
+<p align="right"> <a href="https://edwinsiby.com" target="blank">www.edwinsiby.com</a> </p>
+
 - 🌱 I’m currently learning **Full Stack Web developent with the help of THE ODIN PROJECT**
 
 - 👯 I’m looking to collaborate on **Django and React Projects**
