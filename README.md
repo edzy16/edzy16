@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Edwin Siby</h1>
 <h3 align="center">An aspiring developer from India</h3>
 
-<p align="left" width="50%"> <a href="https://twitter.com/itz_edzy" target="blank"><img src="https://img.shields.io/twitter/follow/itz_edzy?logo=twitter&style=for-the-badge" alt="itz_edzy" /></a> </p>
+<p align="left" width=50%> <a href="https://twitter.com/itz_edzy" target="blank"><img src="https://img.shields.io/twitter/follow/itz_edzy?logo=twitter&style=for-the-badge" alt="itz_edzy" /></a> </p>
 
 
-<p align="right" width="50%"> <a href="https://edwinsiby.com" target="blank">www.edwinsiby.com</a> </p>
+<p align="right" width=50%> <a href="https://edwinsiby.com" target="blank">www.edwinsiby.com</a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web developent with the help of THE ODIN PROJECT**
 
