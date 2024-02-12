@@ -6,11 +6,11 @@
 
 <p align="left" width=50%> <a href="https://edwinsiby.com" target="blank">www.edwinsiby.com</a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web developent with the help of THE ODIN PROJECT**
+- 🌱 I’m currently working as **Software Developer in Kochi**
 
-- 👯 I’m looking to collaborate on **Django and React Projects**
+- 👯 I’m looking to collaborate on **React/ React Native Projects**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Javascript, Typescript, React, React Native**
 
 - 📫 How to reach me **edwinsiby@outlook.com**
 
